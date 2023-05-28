@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeniAlexis23
 - 👀 I’m interested in project development
-- 🌱 I’m currently learning React and Laravel 9
+- 🌱 I’m currently learning React and Vue
 - 💞️ I’m looking to collaborate on small companies
 - 📫 How to reach me balh201317@gmail.com
 
